@@ -1,2 +1,2 @@
 #!/bin/bash
-find -mindpeth l -type d | wc -l
+find -mindepth l -type d | wc -l
