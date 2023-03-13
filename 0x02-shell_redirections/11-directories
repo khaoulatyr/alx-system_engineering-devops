@@ -1,0 +1,2 @@
+#!/bin/bash
+find -mindpeth l -type d | wc -l
